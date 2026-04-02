@@ -1,0 +1,1 @@
+from Tally_project.wsgi import application
